@@ -1,0 +1,11 @@
+pydicom
+numpy
+matplotlib
+pillow
+scikit-image
+staintools
+pylibjpeg
+pylibjpeg-openjpeg
+wsidicom
+openslide-python
+
