@@ -101,7 +101,7 @@ def run_downloads(matches, outdir: Path, dry_run: bool):
 
         # idc_download_cmd looks like: "idc download <StudyInstanceUID>"
         # We append an output directory so files land in a predictable place.
-        cmd = cmd_str.split() #+ ["--outdir", str(outdir)]
+        cmd = cmd_str.split() + ["--download-dir", str(outdir)]
 
         print(f"[{i}/{len(matches)}] sample_id={sid} cancer={cancer}")
         print(f"    running: {' '.join(cmd)}")
