@@ -19,3 +19,5 @@ Use optional flags:
     <p>--csv PATH        Path to the slide index CSV (default: cptac_slide_index.csv)<br>
        --outdir PATH      Directory to download slides into (default: ./idc_downloads)<br>
        --dry-run          Print the commands that would run, but don't execute them</p>
+
+Results should be stored at in the following path structure, with the last two values being examples: /[OUTDIR PATH]/[cancer_type]/[patient_id]/2.25.48791557373299768401597362411459861639/SM_1.3.6.1.4.1.5962.99.1.132039251.338821108.1640809579091.2.0
