@@ -2,7 +2,7 @@
 
 ### Overview
 
-<p>A pipeline for WSI processing for use in image classification tasks. WSI data was obtained from the CPTAC database [here](https://gdc.cancer.gov/about-gdc/contributed-genomic-data-cancer-research/clinical-proteomic-tumor-analysis-consortium-cptac). Functions and workflows are adapted from the Panoptes library which can be found [here](https://github.com/rhong3/Panoptes/tree/master).</p>
+A pipeline for WSI processing for use in image classification tasks. WSI data was obtained from the [CPTAC database](https://gdc.cancer.gov/about-gdc/contributed-genomic-data-cancer-research/clinical-proteomic-tumor-analysis-consortium-cptac). Functions and workflows are adapted from the Panoptes library which can be found [here](https://github.com/rhong3/Panoptes/tree/master).
 
 ### Usage
 
